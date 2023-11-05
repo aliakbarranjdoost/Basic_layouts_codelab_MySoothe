@@ -200,7 +200,7 @@ fun HomeSection(
                 .paddingFromBaseline(top = 40.dp, bottom = 16.dp)
                 .padding(horizontal = 16.dp)
         )
-        content
+        content()
     }
 }
 
